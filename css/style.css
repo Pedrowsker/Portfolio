@@ -46,7 +46,7 @@ body {
 
 header {
     
-    background: rgba(190, 190, 190, 0.1);
+    background: rgba(190, 190, 190, 0.107);
     backdrop-filter: blur(10px);
     padding: 15px 3%;
     display: flex;
