@@ -50,7 +50,7 @@ function drawMatrix() {
     ctx.fillStyle = "rgba(0, 0, 0, 0.08)";
     ctx.fillRect(0, 0, canvas.width, canvas.height);
 
-    ctx.fillStyle = "#00ff9d";          // cor estilo matrix
+    ctx.fillStyle = "#00ff9d";         
     ctx.font = fontSize + "px monospace";
 
     drops.forEach((y, x) => {
